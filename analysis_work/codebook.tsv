@@ -1,0 +1,45 @@
+ID	Theme	English label	Arabic label	Definition	Include / Exclude
+PROC	0	Interview procedure and interviewer talk	إجراءات المقابلة وحديث الباحث	Consent, rapport, interviewer questions, prompts, summaries and back-channel responses (e.g. "okay", "yes") without substantive content.	Exclude any participant statement with substantive content, even if short.
+K6	0	K6 screening item and response	بنود مقياس K6 والإجابة عليها	Administration of the six K6 items and participants' frequency answers.	Descriptive only; not interpreted thematically or diagnostically. Elaborations that go beyond a frequency answer receive a substantive code as well.
+REFLEX	0	Researcher framing (reflexive flag)	تأثير صياغة الباحث	Interviewer turns that state the researcher's own assumptions, suggest an answer, or frame the topic in a way that may shape the reply.	Used as an audit flag for memos; never counted as participant evidence.
+PAST-WORK	1	Pre-displacement work and livelihood	العمل وسبل العيش قبل اللجوء	Descriptions of occupations, trades, land, businesses or household work in Syria.	Include accounts of not working in Syria. Exclude meanings attached to work (PAST-STATUS).
+PAST-STATUS	1	Work as status, respect and self-worth in Syria	العمل كمصدر مكانة واحترام في سوريا	Meanings of past work: reputation, social standing, independence, feeling of being someone.	Requires an evaluative or meaning statement, not only a job description.
+WAR-LOSS	1	Losses of war and displacement	خسائر الحرب والنزوح	Loss of home, property, savings, livelihood, relatives or place caused by war and flight.	Exclude present-day financial strain (BAR-CAPITAL / AID).
+ROLE-PROVIDER	1	Provider responsibility	مسؤولية الإعالة	Responsibility for supporting household members, school fees, food, rent.	Include expectations of oneself as provider.
+ROLE-SHIFT	1	Shifting family roles	تحوّل الأدوار الأسرية	Changes in who provides or decides: dependence on children, widowhood, wife or children working, role reversal.	Must describe change compared with before.
+GENDER	1	Gendered expectations around work	التوقعات الجندرية حول العمل	Norms that restrict or enable women's or men's work, mobility or roles.	
+WORK-JO	2	Work and livelihood activity in Jordan	العمل والنشاط الاقتصادي في الأردن	Any paid, informal, home-based, seasonal or project work in Jordan, and attempts to find it.	
+WORK-PRECARIOUS	2	Precarious and unfair work conditions	هشاشة العمل وظروفه غير العادلة	Short contracts, dismissal, low or unpaid wages, exploitation, long hours, unsafe or irregular work.	
+AID	2	Reliance on humanitarian assistance	الاعتماد على المساعدات الإنسانية	Cash or food assistance, UNHCR/WFP support, aid cuts or exclusion from aid.	
+BAR-AGE	2	Age as a barrier / ageist treatment	العمر كعائق / التمييز العمري	Age limits in programs or jobs, employers preferring the young, ageist remarks.	Exclude accounts in which participant denies age discrimination (NEG-AGE).
+BAR-HEALTH	2	Health as a barrier to work	الصحة كعائق أمام العمل	Physical illness, pain, disability, fatigue that limits work.	Health without link to work goes to HEALTH.
+BAR-LEGAL	2	Legal and residency restrictions	القيود القانونية والإقامة	Work permits, camp exit, ownership/registration restrictions, documentation.	
+BAR-CAPITAL	2	Lack of capital and market constraints	نقص رأس المال وظروف السوق	No money for a project, debt, rising prices, competition, weak markets.	
+BAR-CARE	2	Care duties as a barrier	واجبات الرعاية كعائق	Caring for children or ill relatives limits work.	
+BAR-PROGRAM	2	Program design and funding limits	محدودية البرامج وتمويلها	Program criteria, closures, lack of funding, short or basic courses, no tools after training.	Age criteria in programs are coded BAR-AGE as well.
+NEG-AGE	2	Age not experienced as a barrier	العمر لا يُعاش كعائق (حالة مغايرة)	Participant states that age did not cause exclusion or that ability, not age, matters.	Negative-case code.
+SKILL	2	Skills and expertise	المهارات والخبرات	Skills, crafts, qualifications and competencies participants hold.	
+DIG-WORK	3	Work and income as dignity	العمل والدخل ككرامة	Statements linking work or own income with dignity, self-respect, independence, not needing others.	
+DIG-NEED	3	Humiliation of need and dependence	مذلة الحاجة والاعتماد على الآخرين	Shame or hurt of asking, owing, being dependent, being seen as a burden.	
+REGARD-CHANGE	3	Changed regard from family or community	تغيّر نظرة العائلة أو المجتمع	Perceived drop or change in respect, treatment or view linked to money or status.	
+REGARD-STABLE	3	Regard unchanged	ثبات نظرة الآخرين	Participant states that family or community regard has not changed.	Negative-case code for REGARD-CHANGE.
+WB-DISTRESS	3	Emotional distress	الضيق النفسي	Self-described worry, tension, sadness, boredom, despair, crying, sleeplessness.	No diagnostic interpretation.
+WB-PROD	3	Distress at lost productivity / feeling useless	الضيق بسبب فقدان الإنتاجية والشعور بعدم الجدوى	Distress explicitly tied to not working or not producing as before.	
+WB-RELIEF	3	Work and activity as relief and meaning	العمل والنشاط كمصدر راحة ومعنى	Work, crafts or activity described as relieving, occupying the mind, giving purpose.	
+WB-ISOL	3	Withdrawal and isolation	الانسحاب والعزلة	Staying home, avoiding people, loneliness, reduced social contact.	
+HEALTH	3	Physical health and treatment	الصحة الجسدية والعلاج	Chronic illness, medication, treatment costs, ageing body.	
+DAILY	3	Daily routine and use of time	الروتين اليومي واستخدام الوقت	How participants spend their days; empty time.	
+UNCERTAIN	3	Uncertainty and limbo	عدم اليقين والانتظار	Not knowing whether to stay or return; living without a plan.	
+COPE-FAITH	4	Faith and religious coping	الإيمان والتكيف الديني	Reliance on God, prayer, patience, acceptance.	
+COPE-FAMILY	4	Family as source of strength	الأسرة كمصدر قوة	Children, spouse or relatives as meaning, motivation or support.	
+COPE-SELF	4	Personal persistence and self-reliance	المثابرة والاعتماد على الذات	Determination, adaptability, learning, refusing to give up.	
+SOCIAL	4	Social ties and mutual support	الروابط الاجتماعية والدعم المتبادل	Neighbours, friends, community help, belonging, Jordanian hosts.	
+SOCIAL-STRAIN	4	Social strain and stigma	التوتر الاجتماعي والوصمة	Gossip, mistrust, conflict, discrimination by community (non-age).	
+CONTRIB	4	Contributing to others (community efficacy)	المساهمة تجاه الآخرين (الفاعلية المجتمعية)	Teaching, guiding, advising, helping others, feeling socially useful.	
+PROG-NEED	5	Wishes and needs for programs	الحاجة إلى البرامج والتدريب	Desire for training, guidance, capital, tools, job placement.	
+PROG-DOUBT	5	Doubt about programs	التشكيك في جدوى البرامج	Scepticism that training or programs would help.	
+FUT-ASPIRE	5	Personal aspirations	الطموحات الشخصية	Hoped-for projects, housing, roles for oneself.	
+FUT-RETURN	5	Return to Syria	العودة إلى سوريا	Hopes, conditions, fears or ambivalence about return.	
+FUT-REBUILD	5	Generation can help rebuild Syria	قدرة الجيل على إعادة الإعمار	Belief that people of their age have experience/role in rebuilding.	
+FUT-LIMIT	5	Doubt about generation's role in rebuilding	التشكيك في دور الجيل في الإعمار	Statements that their generation has little or no role, or that rebuilding depends on others.	
+RIGHTS	5	Rights claims and messages to decision-makers	المطالبة بالحقوق والرسائل لصنّاع القرار	Messages to organisations/governments about older refugees' rights and needs.	

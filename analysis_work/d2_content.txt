@@ -1,0 +1,525 @@
+# 1. Purpose of this document
+
+This document sets out the analytical framework built from the ten interviews and is intended as the working foundation for the Findings chapter. It contains the analytical approach that was actually carried out, the final bilingual codebook, the development of themes and subthemes, the evidence for each theme with traceable quotations, within-case and cross-case analysis, a participant-by-theme matrix, contradictory and negative cases, analytical memos, links to the approved research questions and theoretical framework, and an outline for the Findings chapter.
+
+Every quotation is given with its unit identifier (for example E4-205 = interview E4, unit 205), which points to the full Arabic line, translation and back translation in Transcript_Table_Analysis_FINAL.docx. The Arabic in each quotation was checked automatically against the transcript and is an exact excerpt of it. Statements about how many participants expressed something refer to the ten people interviewed; they describe patterns in this sample and are not estimates for older Syrian refugees in general.
+
+# 2. Study frame (from the approved proposal)
+
+Title: An Exploration of the Psychosocial Experiences of Older Syrian Refugees in the context of economic empowerment.
+
+Primary research question: How do older Syrian refugees in Jordan perceive the role of economic engagement in influencing psychosocial well-being?
+
+Sub-question 1: How does economic engagement (formal/informal) affected on older Syrian refugee ? [wording as in the approved proposal]
+
+Sub-question 2: How do experiences of exclusion affect self-reported anxiety, depressive feelings, isolation, and meaning?
+
+Objectives: (1) to explore real-life stories of older Syrian refugees (50–65) about working or not having the chance to work in Jordan; (2) to learn how working or being excluded changes their identity and sense of self-respect (dignity) after forced displacement; (3) to check the link between having an income (or not) and psychological well-being and the feeling of being useful to the community; (4) to explore hope in relation to the future and the roles they imagine for themselves in rebuilding social connections in Syria; (5) to develop evidence-based suggestions for policymakers.
+
+Theoretical framework: ecological social work and the Person-in-Environment (PIE) model; trauma-informed practice, which treats economic exclusion as a form of harm; solidarity-based economy approaches, which value non-market and household contributions; community efficacy (the perceived capacity to contribute and matter socially); and the Sustainable Development Goals (SDGs 1, 3, 8 and 10) as a rights-based lens.
+
+Design: qualitative narrative inquiry with in-depth semi-structured interviews in Arabic; thematic analysis in five steps — (1) transcribe in Arabic, (2) translate into English preserving meaning and cultural context, (3) code and find patterns, (4) group codes into themes related to identity, dignity, economic life and community efficacy, (5) interpret themes against the research questions and framework — with reflexive memos throughout.
+
+# 3. Analytical approach actually performed
+
+## 3.1 Data
+
+Ten interviews (E1–E10) with older Syrian refugees in Jordan — four women and six men; six living in a camp setting and four in urban Amman — conducted in Arabic by the researcher using the 16-question interview guide, preceded by the six K6 screening items. The transcripts in Transcript.docx contain 4,236 transcription lines (analytical units), of which 1,658 contain participant content relevant to the research questions; the remainder are interviewer questions, consent and back-channel talk, K6 administration, or background narrative.
+
+## 3.2 Steps followed
+
+- Familiarisation and source verification. All ten transcripts were read in full in Arabic alongside the existing English translation. The previous coded transcript was checked line by line against Transcript.docx: it reproduced all ten transcripts completely and in order, so its segmentation and unit numbering were kept.
+- Step 1 (transcription). The Arabic transcripts were used as given; no wording was changed. Unclear words are marked in the translations rather than "corrected" in the Arabic.
+- Step 2 (translation and back translation). Existing English translations were verified against the Arabic during coding; 270 units were re-translated where the meaning was wrong, reversed, incomplete or corrupted, and a new back translation was written for each corrected unit. Culturally specific expressions were kept and glossed (for example qahr, "your bones are gold", madafa, wasta).
+- Step 3 (coding). Each unit was read and coded individually (open, descriptive and, where wording was striking, in-vivo labels recorded in memos). Codes from the previous version were treated as provisional: they were merged, renamed, split or dropped through constant comparison across interviews. The result is a consolidated codebook of 41 substantive codes plus four non-thematic codes (PROC, K6, CONTEXT, REFLEX).
+- Step 4 (themes). Codes were grouped into 18 subthemes and five themes by examining how codes co-occurred in the same units, how they connected within each participant's story, and how they related to the proposal's focus on identity, dignity, economic life and community efficacy. Candidate themes from the earlier summaries (six themes) and the earlier session report (four themes) were reviewed against the data and reorganised (see Memo 7).
+- Step 5 (interpretation). Themes were read against the research questions and the framework, with attention to contradictory and negative cases and to the researcher's own influence on the interviews (Memo 1).
+- Within-case analysis. An analytic memo was written for each interview summarising the participant's narrative arc, key meanings, contradictions and reflexive points (section 9).
+- Cross-case analysis. A participant-by-subtheme matrix and comparisons by gender, setting, current work and pre-displacement occupation were used to see where patterns held and where they did not (sections 10–11).
+- Audit trail. Coding decisions, translation corrections, memos, the matrix and the scripts used to assemble and check the documents are stored in the analysis_work folder of the project repository.
+
+## 3.3 What was and was not done
+
+The workflow mirrors the procedures available in ATLAS.ti (segmentation, coding, code groups, networks, code-document tables, memos), carried out through close reading and transparent scripts. No proprietary qualitative software was used. Coding was done by a single analyst; there was no second coder and no member checking, so the codes and themes should be reviewed by the researcher and discussed with the supervisor (peer debriefing, as the proposal plans). Frequencies of coded units are reported only to show where material is concentrated; they are not measures of importance, and no statistical inference is drawn.
+
+# 4. Participants
+
+|table:participants|
+
+Points to note before writing the Findings chapter (details in Memos 3–5):
+
+- Three participants (E2, E3, E9) are recorded as exactly 50, and E2 and E3 described themselves as 49 at the time of interview. The sample should be described as aged 50–65 (the proposal's criterion), not "older than 50", and E2's and E3's eligibility checked.
+- The table records only E8 as currently working. The interviews show that E6 (garment factory), E7 (unlicensed school transport) and E9 (NGO coaching) were also doing paid work, and E10 did irregular day labour. The definition of "current work status" needs to be clarified.
+- K6 was explained on different scales across interviews and two totals (E9, E10) cannot be reproduced from the recorded answers. K6 should be used only descriptively.
+
+|section:landscape|
+
+# 5. Final bilingual codebook
+
+The codebook below is the final, consolidated version. Each code has a theme assignment, a definition and, where useful, inclusion or exclusion guidance. "Units" is the number of transcript units carrying the code; "Participants" is the number of interviews in which it appears.
+
+|table:codebook|
+
+|section:portrait|
+
+# 6. From codes to categories to themes
+
+## 6.1 Code–subtheme–theme structure
+
+|table:structure|
+
+## 6.2 Relationships between codes
+
+Codes did not occur in isolation. The most frequent pairings in the same unit (table below) show the main analytic links:
+
+|table:cooccur|
+
+Reading these links together with the interview narratives suggests the following network, which organises the themes:
+
+- Past work and standing (PAST-WORK, PAST-STATUS) are the reference point against which present circumstances are judged. War and displacement losses (WAR-LOSS) cut people off from this past, and the distance between "then" and "now" is expressed as role shift (ROLE-SHIFT) and humiliation (DIG-NEED).
+- Structural barriers cluster: age limits mostly appear inside programme criteria (BAR-AGE with BAR-PROGRAM, 21 shared units), legal limits combine with lack of capital (BAR-LEGAL with BAR-CAPITAL), and both push participants into precarious work (WORK-JO with WORK-PRECARIOUS; BAR-CAPITAL with WORK-PRECARIOUS).
+- Work and income are linked to dignity and relief (DIG-WORK with WB-RELIEF, 20 shared units). Their absence is linked to need and distress (DIG-NEED with WB-DISTRESS) and to the strain of being unable to provide (ROLE-PROVIDER with WB-DISTRESS).
+- Gender runs through role change (GENDER with ROLE-SHIFT, 18 shared units): women's entry into paid work and men's loss of household authority are two sides of the same change.
+- Skills connect past, present and future (SKILL with PAST-WORK, WORK-JO, CONTRIB, FUT-ASPIRE and FUT-REBUILD). The same experience that is unused in Jordan is what participants offer for Syria's reconstruction.
+- Contribution to others is the bridge between coping and the future (CONTRIB with FUT-REBUILD, 40 shared units — the strongest pairing in the dataset; CONTRIB with COPE-FAITH and COPE-FAMILY).
+- Requests for programmes are framed as rights (PROG-NEED with RIGHTS) and are directly shaped by the barriers participants met (BAR-AGE with PROG-NEED).
+
+# 7. Themes and subthemes: evidence and interpretation
+
+## Theme 1. From "master of oneself" to starting from zero: ruptured work identities and family roles
+
+Theme 1 describes what work meant before displacement, what was lost, and how roles inside the family were rearranged. It answers the proposal's interest in identity and in the gap between cultural expectations of older people as providers and their present position.
+
+### 1.1 Work in Syria as independence, standing and self-worth
+
+All ten participants described their working or household life before displacement, and most of the men, together with E9, described work as the basis of independence and standing. Being "master of oneself" (sayyid nafsuh) recurs as an in-vivo phrase (E2-266, E3-116, E10-074).
+
+> q11a
+> q11b
+> q11c
+> q11d
+
+Not every account idealised past work. E4 described joining the army after failing the baccalaureate as "an escape from reality" (E4-066) and valued his later post mainly for its civilian atmosphere and salary. For E1, E5 and E6, life in Syria meant domestic life without paid work; their sense of past standing came from family life and comfort rather than employment (E5-057, E5-068, E6-054–055).
+
+### 1.2 Losses of war and displacement
+
+Most participants described concrete losses: a shop destroyed (E2), a factory's machines, a car and savings (E7), a farm and more than a thousand olive trees (E10), the salary and benefits of a former post (E4), the family gatherings and social life of the past (E5), and the detention and deportation of sons (E7, E8).
+
+> q12a
+> q12b
+> q12c
+
+These losses matter for the analysis because they explain why participants describe themselves as having to "start from zero" (E10-074, E10-153) at an age when, in their own terms, they had expected to be consolidating rather than rebuilding.
+
+### 1.3 Reconfigured provider roles: dependence, reversal and new burdens
+
+Provider responsibility appears in all ten interviews, but displacement changed it in three different directions.
+
+First, several men described moving from provider to dependant — on aid (E3, E10) or on their children and wives (E4, E7, E8). E3 put this most vividly: living on the same food card as his daughter made him feel like a child.
+
+> q13a
+> q13b
+
+Second, the women in the sample (E1, E5, E6, E9) became providers through widowhood, separation or a husband's illness. They described this as a weight they were not allowed to put down.
+
+> q13c
+> q13e
+
+E8, a widower who remarried, described the same weight from a father's position.
+
+> q13d
+
+Third, continuity: E2 said his role and authority as a father had not changed, only his means (E2-139–145). His account is a reminder that role change was not universal.
+
+### 1.4 Gendered pathways into and out of work
+
+Gender norms shaped who worked before and after displacement. In Syria, three of the four women did not work for pay, and E6 described women's work as shameful in Houran.
+
+> q14a
+
+In Jordan, women's entry into paid work was described both as forced and as a development. E1 said Jordan pushed her into work and that work brought development (E1-079–081); E9 linked her income to decision-making power in the family.
+
+> q14b
+> q14e
+
+For men, the same change was experienced mainly as loss. E7's account of crying after dropping his wife at the sewing workshop shows how a household survival strategy could be lived as a personal humiliation, and E8 and E10 linked men's unemployment to quarrels and divorce in families around them (E8-438–461, E10-076).
+
+> q14c
+> q14d
+
+This asymmetry — work as necessity and partial gain for women, dependence as loss for men — is analytically important and should not be flattened into a single "role loss" finding. E6's sons and relatives disapproved of her working (E6-065–071), which shows that women's new roles also carried social costs.
+
+## Theme 2. Narrow and precarious paths to economic participation
+
+Theme 2 describes the economic engagement participants actually had in Jordan and the structural conditions that limited it. It speaks directly to sub-question 1 and to the PIE lens.
+
+### 2.1 Fragmented, informal and insecure work
+
+All ten participants had worked in Jordan at some point, but rarely in stable work. Their paths included short NGO contracts and guard rotations (E1, E2, E3, E10), farm and construction day labour (E3, E4, E10), home-based food production (E5, E6), small shops or stalls (E1, E8, E9, E10), factory work (E6), unlicensed school transport (E7) and, in one case, a sustained NGO career (E9). Pay was very low, and conditions were set by employers.
+
+> q21a
+> q21c
+> q21b
+> q21d
+
+Two participants (E6 and E9) had relatively stable work. Their accounts are important contrasts: stability brought comfort (E9-067) but not necessarily security (E6-127, E6-225).
+
+### 2.2 Age as a gatekeeping criterion — and its contestation
+
+Age-related exclusion was raised by every participant, but in different forms. The most concrete experiences were age ceilings in training and learning opportunities rather than in jobs: an accredited computer course limited to under-30s (E1-215), a computer course with an under-35 limit refused to E2 at about 40 (E2-288–301), an electricity course with tools closed to over-50s (E4-203), mobile-repair courses for 18–35 (E7-442, E7-544), a computer course refused to E10 at 38 (E10-143–150), and trainings for 17–35 or "50 and under" (E5-294, E6-103–107, E9-061–063).
+
+> q22a
+> q22b
+> q22c
+
+Others described employers' attitudes and ageist remarks.
+
+> q22d
+> q22e
+> q22f
+
+Age exclusion was also contested. Several participants denied that age had kept them out of work (E2-246–258, E3-258–292, E8-365–403), pointed to older people still being employed (E2-224), or argued that older workers are more productive because of experience (E4-311, E5-146, E6-090). E9 located the problem in society's view of age rather than age itself.
+
+> q22g
+> q22h
+> q22i
+> q22j
+
+E2's interview shows why this subtheme needs careful handling: he first denied age discrimination and later recalled being refused a course "because your age doesn't fit", which left him "crushed" (E2-299–301). Age-based exclusion may be normalised and only recognised when a concrete episode is recalled. At the same time, some participants anticipated their own bodily or cognitive decline (E3-345, E3-396, E8-649–658), so age also operated as an internal limit.
+
+### 2.3 Legal, financial, health and programme barriers
+
+Legal and residency rules shaped what work was possible: the cost of work permits outside the camp (E2), the inability to complain about exploitation without a permit (E3), the ban on Syrians working as drivers (E10), the camp rotation system for NGO jobs (E2, E10), and the inability to register property (E1-277). Nationality-based pay discrimination was reported by E7.
+
+> q23a
+> q23b
+> q23c
+
+Programme design and allocation were also criticised: selection by connections (wasta) (E2, E3, E7), funding cuts and closed sites (E1-178, E1-196), and training without the tools to use it.
+
+> q23d
+> q23e
+
+Lack of capital, debt and credit-based local markets defeated small projects (E1, E5, E8, E9, E10), and health problems — back pain, heart disease, cataract, post-COVID weakness, knee pain, trembling hands — narrowed the work participants could do (E1, E2, E4, E6, E7).
+
+> q23g
+> q23f
+
+### 2.4 Skills and experience left unused
+
+Participants described a wide range of skills — trade and sales, electrical work and computing, metalwork and carpentry, cooking, tailoring, engineering and plastics manufacturing, shoemaking, psychosocial facilitation, farming and heavy driving — most of which they could not use in Jordan.
+
+> q24a
+> q24b
+> q24c
+
+Experience was repeatedly valued above certificates (E4-307–382, E7-415), yet formal certificates were what employers and NGOs asked for (E3-191–208). This mismatch is part of how exclusion works: it is not that older refugees lack skills, but that the routes through which skills are recognised are closed to them.
+
+## Theme 3. Income, dignity and psychosocial well-being
+
+Theme 3 addresses the primary research question and sub-question 2 most directly: how participants connected work and income to dignity, regard and emotional well-being.
+
+### 3.1 Work and own income as dignity, independence and "weight"
+
+All ten participants linked work or income to dignity in some way. Own income meant not needing anyone, being able to provide and to host, and feeling relief.
+
+> q31a
+> q31b
+> q31c
+> q31d
+
+The link was not simple. E3 and E6 distinguished dignity from money: for them dignity is intrinsic and behavioural, while money affects comfort and security. E8 placed the boundary of dignity not in hard or physical work but in being ordered to serve someone personally.
+
+> q31e
+> q31f
+> q31g
+
+These positions are analytically valuable. They suggest that the threat to dignity lies less in poverty itself than in dependence, servility and the conditions under which help or work is offered — a point E6 made explicitly when she described humiliation as help given with conditions attached (E6-159).
+
+### 3.2 The humiliation of need and dependence
+
+Need was described in strong emotional language: shame at asking for loans at one's age, qahr (bitter, helpless humiliation), being reduced to "numbers", being insulted as a refugee, and working alongside young labourers whose language one found degrading.
+
+> q32a
+> q32b
+> q32c
+> q32d
+> q32e
+
+E7's statement that, despite everything, "I never stretched out my hand to people" (E7-385) shows how avoiding dependence was itself a way of protecting dignity.
+
+### 3.3 Regard that follows money — and regard that does not
+
+Several participants said that standing in the community follows money: a full guest room when one has money and silence when one does not.
+
+> q33a
+> q33b
+> q33c
+
+This was not universal. E2 kept his authority at home, E8 felt that regard had not changed because "our whole community is refugees", and E9's regard was secured by her income and role.
+
+> q33d
+> q33e
+
+For women, regard was also shaped by gender norms: E6's family and sons objected to her working, regardless of income (E6-065–071).
+
+### 3.4 Distress, idleness and the relief of being occupied
+
+Participants described worry, sleeplessness, withdrawal, sadness and fear about tomorrow, and connected these feelings to unemployment, debt, aid dependency, illness and displacement. These are self-descriptions and are reported here without diagnostic interpretation.
+
+> q34a
+> q34b
+> q34d
+> q34e
+
+Work and activity were described as relief because they occupy the mind and structure the day.
+
+> q34c
+
+But income alone did not remove worry when it was insecure.
+
+> q34f
+
+E4's account is the most severe in the sample (he gave the highest response on every K6 item and described himself as withdrawn and hopeless; E4-041–044, E4-253–254). His case raises the practice question of referral, which the proposal's ethics section anticipates ("stop and support" procedure).
+
+## Theme 4. Holding on: faith, family, self-reliance and contributing to others
+
+Theme 4 describes what sustained participants and where their sense of mattering came from. It speaks to the "meaning" element of sub-question 2 and to community efficacy.
+
+### 4.1 Faith and acceptance
+
+Faith appeared in all ten interviews and was the central frame of E8's account.
+
+> q41a
+> q41b
+> q41c
+
+E4 is the clear negative case: asked what gives him strength, he said he did not know what could bring back what was lost (E4-250–254).
+
+> q41d
+
+### 4.2 Family as purpose and obligation
+
+Children were described as both the reason to keep going and a source of pressure.
+
+> q42a
+> q42b
+
+### 4.3 Persistence and self-reliance
+
+Several participants described determination and refusal to give up as part of who they are.
+
+> q43a
+> q43b
+> q43c
+
+### 4.4 Community efficacy: guiding, teaching and helping — amid social strain
+
+Contribution to others was one of the most frequently coded areas (all ten interviews). Participants described teaching grandchildren and students (E7), guiding adolescent girls in an NGO programme (E1), sitting in guest-houses (madafa) to advise younger men (E2, E3), psychosocial work with children (E9), religious guidance (E8), and mutual help between neighbours and friends (E8's forgiven debts and Hajj savings).
+
+> q44a
+> q44b
+> q44c
+
+These accounts fit the proposal's concept of community efficacy: participants felt they mattered when they could pass on knowledge or help others, and E7 explicitly placed his "psychological comfort" there rather than in money (E7-628).
+
+The same subtheme includes social strain that undermines community efficacy: lack of respect for elders and young supervisors shouting at older workers (E6, E4), ageist mockery (E1), and neighbours' hostility and a false report to the security services (E7-315, E7-338).
+
+> q44d
+
+## Theme 5. Conditional hope: futures, rebuilding Syria and claims for age-inclusive support
+
+Theme 5 addresses the proposal's fourth and fifth objectives: hope, imagined roles in rebuilding Syria, and messages to decision-makers.
+
+### 5.1 Personal aspirations and return
+
+Jordan was often described as a place without a future, and return to Syria as conditional on housing and capital.
+
+> q51a
+> q51b
+> q51c
+
+Aspirations were mostly modest and work-based: a sewing workshop (E1), a clothing or shoe shop (E2, E8), a bookshop (E9), driving (E10), teaching technical drawing (E7), and returning to a previous working life (E3).
+
+> q51d
+> q51f
+
+E6 is the important negative case: her wish was to stop working and rest at home.
+
+> q51e
+
+### 5.2 "Still able to give": the generation's role in rebuilding — and its limits
+
+Most participants believed their generation could contribute to rebuilding Syria, through experience, small projects, guidance of young people raised in war, and reconciliation.
+
+> q52a
+> q52e
+> q52f
+
+They also named limits: lack of capital among refugees, exhaustion after years of displacement, and the view that reconstruction belongs to the young.
+
+> q52c
+> q52b
+> q52d
+
+The position most participants took is best summarised as conditional capacity: the generation can contribute "if conditions are prepared" (E10-208–214), "if they find a suitable job and salary" (E4-279), or "whoever has money" (E8-565–569).
+
+### 5.3 What older refugees ask for: projects, fair access and dignity
+
+Participants' messages to organisations and governments focused on projects and work rather than cash, on fair and transparent selection, on recognising experience, and on prioritising the most vulnerable.
+
+> q53a
+> q53d
+> q53e
+> q53c
+
+There was disagreement. E1 asked for cash support for those unable to work while preferring work for herself (E1-320–357); E6 asked for secure housing and rest rather than more work; E3 and E4 doubted that training would help them now.
+
+> q53b
+> q53f
+> q53g
+
+# 8. Answering the research questions
+
+|table:rq|
+
+# 9. Within-case narratives
+
+## E1 — woman, 51, camp
+
+E1 did not work in Syria, where she lived in her husband's family home and "going out and coming in" was not allowed (E1-070, E1-077). After her husband's death in Jordan she became the provider for young children and moved through a series of short NGO contracts — youth activities, community mobilisation — the most recent ending a month before the interview when a site closed for lack of funding (E1-084–128, E1-178). For her, work relieved the mind and stopped sad memories (E1-242–243). She experienced age exclusion directly (an accredited computer course limited to under-30s; E1-215) and in mockery ("they'll say she has Alzheimer's"; E1-237), but she was clear that one dismissal was about seniority rather than age (E1-114, E1-211). Her children were her reason to stay strong (E1-271). She dreamed of a sewing workshop but saw no capital for it, here or in Syria (E1-282–312).
+
+## E2 — man, 50 (self-reported 49), camp
+
+E2 ran a high-end clothing shop in Daraa that gave him wide social connections and a sense of "owning the world" (E2-121–129); the shop burned in 2012 (E2-108). In the camp he moved from a cigarette stall to currency exchange (banned as unlicensed), a three-year sanitation job and, now, three-month guard rotations every two years (E2-158–172, E2-222). He blamed wasta and permit costs more than age, yet recalled being refused a computer course as "too old" at about 40 (E2-288–301). A heart patient, he hides his illness on job applications (E2-228). He gave the most detailed account of the shame of asking for loans (E2-266) and kept his authority as a father while losing much of his social circle (E2-141, E2-151). He sees his generation's role in guiding young people, voluntary work and reconciliation in guest-houses (E2-417–440).
+
+## E3 — man, 50 (self-reported 49), camp
+
+E3 was a driver, security employee and self-employed worker in Syria, proud of his independence and computer skills (E3-109–116, E3-172–179). In Jordan he worked on farms, as a municipal street cleaner and as an NGO guard; on one farm he worked from 6 a.m. to 2 a.m. and could not complain because he had no permit (E3-233–251). Dependence on the same food card as his daughter made him feel like a child (E3-127–131). He firmly denied age discrimination and called a fifty-year-old "still a young man" (E3-423), but worried about losing his strength (E3-345–348). He separated dignity, which he said remains intact, from psychological comfort, which poverty damages (E3-296–305). He saw no future in Jordan and wanted small projects rather than cash (E3-367, E3-489–497).
+
+## E4 — man, 55, camp
+
+E4 joined the army after a baccalaureate failure he still describes as destroying his life, and later valued a civilian-like post at a research centre with a good salary (E4-066–093). In Jordan he did skilled metalwork and electrical work for about four dinars a day and was barred from an electricity course because he was over 50 (E4-125, E4-203–205). His daughter supported the family for a time, which he called qahr (E4-100). He now has a cataract he cannot afford to treat (E4-120–122, E4-213). His account contains the strongest expressions of humiliation and withdrawal in the sample (E4-041–044, E4-108, E4-233, E4-253). He argued that older workers' experience is worth more than certificates and proposed pairing them with young workers (E4-311–352).
+
+## E5 — woman, 54 (self-reported 55), urban Amman
+
+E5 came from a comfortable life in Aleppo and did not work there (E5-057–068). After her husband's illness she took on farm work, a tahini factory, a production kitchen that underpaid and cheated her, and home catering, which has dwindled since moving to Amman (E5-083–109). She reported age-based refusals by associations (E5-143–145, E5-294) but rejected the idea that age reduces ability, describing herself as out-producing young women (E5-146–148, E5-229). For her, earned money is worth more than charity (E5-196–198). She sees her generation as able to rebuild through pooled family effort (E5-267, E5-278).
+
+## E6 — woman, 56, urban Amman
+
+E6 never worked in Syria, where women's work was considered shameful in Houran (E6-052). Separated from her husband, she has supported her children for nine years and works daily in a garment factory (E6-037, E6-057, E6-073–090). Her sons and relatives object to her working (E6-065–071). She reported age ceilings in hiring and training (E6-090–107). She held that dignity does not depend on money (E6-140–145) and that even steady income does not bring calm when work is uncertain (E6-127, E6-184–191). Her knee pain and worry about her sons' future weigh on her (E6-232–241). Unlike most participants, she asked for rest and secure housing for older people rather than more work (E6-251, E6-293–298).
+
+## E7 — man, 65, urban Amman
+
+E7 had the most varied pre-war career: work in the Gulf, a press-monitoring post, a trucking company, and his own plastics factory trading with Jordanian merchants (E7-153–236). The war took his machines and car, and his sons were detained and beaten at checkpoints (E7-251–259, E7-699). In Jordan he learned tailoring from his son-in-law and built a home business, closed after neighbour hostility and a false security report; he now drives school students in an unlicensed car (E7-300–364). He was offered a lower salary "because you're Syrian" (E7-430) and told he was too old by traders and workshops (E7-503–508). He described feeling "without weight" when former trading partners would not offer him water (E7-531–534). His strongest source of meaning is teaching grandchildren and students (E7-611–630). Some of his disclosures are sensitive and should not be quoted (Memo 8).
+
+## E8 — man, 57, urban Amman (employed)
+
+E8 had worked in Jordan as an itinerant clothes seller for more than twenty years before the war and brought his family from Aleppo after it began (E8-153, E8-207). After his wife's death he raised a large family alone and later remarried; two sons were deported to Syria and detained (E8-209–241). A licensed shop failed with a loss of 10,000 JD, and itinerant trade collapsed after COVID; a year and a half without work was "a turning point in my life", with constant quarrels at home (E8-258–265, E8-384–397, E8-431–496). He started work in a friend's bag shop a month before the interview. Faith frames his whole account (E8-499–536). He denied age discrimination but felt his mind was "used up" (E8-365–403, E8-649–658), and he described older refugees as "consumed like a Pepsi can" (E8-610).
+
+## E9 — woman, 50, camp
+
+E9 was briefly a substitute teacher in Syria and valued work as building one's identity (E9-024–026). After separating from her husband she became the family's provider; a clothing shop failed because customers bought on credit, and she then built a career in NGO protection and psychosocial work, currently as a children's coach (E9-028–047). Economic independence gave her decision-making power (E9-043). She was excluded from trainings by age ceilings but said age did not stop her, locating the barrier in society's view of age (E9-053–063). Her closing message — "don't put us on the shelf" — is the clearest statement of the generation's wish to contribute (E9-085).
+
+## E10 — man, 55, camp
+
+E10 was a farmer and truck driver who employed and fed workers year-round; his olive trees were later cut down (E10-064–071, E10-225–226). In Jordan he moved from NGO guard work to farm labour at a dinar an hour and construction, and a small electrical-goods stall failed because of unpaid credit (E10-086–113). He cannot work as a driver because Syrians are not allowed to (E10-128–130). Riding with young labourers after once supervising his own workers felt like being "turned upside down" (E10-153–157). He was refused a computer course at 38 because of an age limit (E10-140–150). His family is his motivation (E10-193–195), and his message is that older refugees should not be "sentenced to death" while only the young are supported (E10-232).
+
+|section:landscape|
+
+# 10. Participant-by-theme matrix
+
+The first matrix shows the number of coded units per subtheme for each interview. The second shows presence (●) or absence (–) at theme level. Unit counts reflect how much a participant talked about an area and also interview length (E7 and E8 are much longer); they should not be read as intensity.
+
+|table:matrix|
+
+|table:matrix2|
+
+# 11. Cross-case comparison
+
+## 11.1 Comparison by key characteristics
+
+|table:cross|
+
+## 11.2 Main cross-case observations
+
+- Gender. Women's narratives centre on becoming providers and on entering paid work for the first time; men's centre on losing provider status and authority. Women framed work more often as development (E1, E9) and men more often as a measure of how far they had fallen (E4, E7, E10). Age exclusion was reported by both, but women's accounts more often combined it with gendered restrictions (E1-233, E9-053).
+- Setting. Camp participants emphasised aid dependency, NGO rotation jobs, camp exit and permit rules and organisational selection (E2, E3, E10). Urban participants emphasised rent, landlords, licences, neighbours and markets (E5, E7, E8). Exclusion from training by age ceilings appeared in both settings.
+- Current work. Participants who were working at the time of interview (E6, E7, E8, E9 according to the interviews) described relief and purpose but also insecurity (E6), exposure to extortion and insult (E7) and fragility (E8 had just started after eighteen months without work). Work did not by itself resolve distress.
+- Pre-displacement standing. Those with the highest previous standing — business owners and employers (E2, E7, E10) and the salaried officer (E4) — described the sharpest humiliation and "starting from zero". Women who had not worked before (E1, E6) described work in Jordan with more ambivalence than loss.
+- Coping. Faith and family were near-universal resources; contribution to others was strongest among participants who had a channel for it (E7 teaching, E9 NGO work, E2 guest-houses). The one participant without an evident source of strength (E4) was also the most isolated.
+
+# 12. Contradictory and negative cases
+
+|table:negative|
+
+|section:portrait|
+
+# 13. Analytical memos
+
+## Memo 1 — Researcher influence (reflexivity)
+
+Eighty-six interviewer units were flagged REFLEX. The clearest example is E1-102, where the interviewer told the participant that he believes improved finances improve psychological well-being "and this is what I want to prove in my thesis". Other examples include suggesting age as the reason for exclusion (E2-223, E3-252, E3-277–284), pressing a participant who had said money does not affect dignity ("convince me … some people told me it affects"; E6-152–155), offering the example of older women rebuilding post-war Germany (E5-271–275, E6-260, E7-688–690), and a long hypothetical about sectarian killing (E8-690–725). These flags matter for credibility: answers that follow such prompts should not be used as strong evidence for the prompted view. Conversely, several participants resisted the framing (E2 and E3 on age; E6 on dignity), which strengthens confidence in their own positions. The Findings and Methods chapters should acknowledge this openly, consistent with the proposal's commitment to reflexive journaling and bracketing.
+
+## Memo 2 — Insider positionality
+
+The researcher is a Syrian refugee living in Jordan and, in at least two interviews, a neighbour or prior acquaintance (E8-002: "I'm your neighbour"; E9-018: "I told you last time"). This supported trust and shared language — participants used dialect and idioms freely — but may also have encouraged participants to frame answers in ways they expected the researcher to value (e.g., programme-oriented vocabulary from E9, who is herself a humanitarian worker).
+
+## Memo 3 — K6 administration and scoring
+
+The six K6 items were explained on a 0–4 scale in E1, on a 1–4 scale in E3–E8 and E10, and with four verbal options in E9. The recorded totals for E1–E8 can be reproduced; E9 (recorded 16; answers give 4 or 10) and E10 (recorded 13; answers give 12 or 18) cannot. K6 is therefore reported descriptively only, as a limitation, and no psychological condition is inferred from it. Participants' own words about distress are more informative for this study than the totals.
+
+## Memo 4 — Employment status
+
+The demographic table records only E8 as working. The interviews show paid work by E6, E7 and E9 at the time of interview, and irregular day labour by E10. A likely explanation is that the table recorded formal or registered employment, or status at recruitment, but this cannot be confirmed from the documents. The Findings should describe participants' work as they described it, and the demographic table should be corrected only after the researcher checks the original records.
+
+## Memo 5 — The age boundary
+
+Three participants are recorded as exactly 50; two described themselves as 49 at interview. The proposal's inclusion criterion is 50–65. The statement "all participants are older than 50" is not accurate and should be replaced with "aged 50–65". If E2 and E3 were 49 on the date of interview, this should be acknowledged as a minor deviation from the inclusion criterion.
+
+## Memo 6 — Translation of culturally loaded expressions
+
+Several expressions carry meaning that literal translation loses: qahr (helpless, bitter humiliation; E4-100, E4-108, E2-301); "your bones are gold" (a polite way of telling someone he is too old to hire; E7-300, E7-506); madafa (guest-house gatherings where men discuss community affairs; E2-436, E3-451); wasta (connections); "the essence of a lifetime" (E9-085); "seven trades and the luck is lost" (E4-120). These were kept and glossed. Previous translations had reversed or distorted meaning in several important quotations (e.g., E9-085, E3-348, E8-461, E1-098), which would have changed the findings if used uncorrected.
+
+## Memo 7 — Development of the theme structure
+
+The earlier summaries proposed six themes and an earlier session reported four themes and fourteen subthemes (not available for verification). After recoding, five themes were retained. Economic exclusion and precarity were combined into one structural theme (Theme 2); identity and role change became a separate theme (Theme 1) because the data showed a clear before/after structure; dignity, regard and well-being were kept together (Theme 3) because participants themselves linked them; faith, family and community were joined with contribution to others (Theme 4) because contribution was the main way participants described mattering; and the future was combined with rebuilding and policy messages (Theme 5). Computer and digital training appear in the data only as an example of age-gated learning; they do not form a theme, consistent with the study's focus.
+
+## Memo 8 — Ethics and sensitive material
+
+Some participants became emotional (E2-351) or described severe distress (E4). Two passages in E7 contain sensitive disclosures (E7-463–487 and E7-553–567); they are retained in the transcript as required but are coded CONTEXT and should not be quoted. Several transcripts name participants, relatives and third parties; pseudonymised identifiers should be used throughout the thesis.
+
+## Memo 9 — Sample size and saturation
+
+The proposal planned 15–20 interviews or thematic saturation. Ten interviews were analysed. Many patterns recur across participants, but new nuances were still appearing in the later interviews (for example E9's NGO career and E10's account of working among young labourers). The thesis should therefore avoid claiming saturation and present the findings as an in-depth exploration of ten narratives.
+
+# 14. Interpretation within the approved framework
+
+Person-in-Environment and ecological perspective. Participants' distress was located in the interaction between person and environment rather than in individual deficits. Barriers operated at several levels at once: policy (work permits, the camp rotation system, the ban on Syrian drivers, property registration, age ceilings in programme criteria), organisations (allocation through wasta, funding cuts, training without tools), markets (credit-based buying, very low wages, price competition), family (role reversal and conflict) and the body (chronic illness, injury, ageing). This supports the proposal's framing of exclusion as a process that "starts with policy but spreads through family systems, community networks, and individual identity" (Karlsson & Jönsson, 2020; Bridi et al., 2023).
+
+Trauma-informed practice. Participants described economic exclusion in the language of harm — qahr, humiliation, being "numbers", being "turned upside down" — layered on war losses such as destroyed property and detained sons. This is consistent with the proposal's view that poverty and marginalisation threaten safety, autonomy, trust and dignity (George, 2010; Moayerian et al., 2023). The analysis also shows that the conditions of work and help matter: extortion, insults, and help with conditions attached were experienced as harmful in themselves.
+
+Solidarity-based economy. Much of participants' contribution was non-market: care for children and grandchildren, teaching, advising young people, mutual aid such as forgiven debts and shared savings for the Hajj (E8), and pooled family effort (E5). Their requests also challenge cash-only approaches: most asked for projects, tools and fair access rather than one-off payments (E3-495). This echoes the proposal's emphasis on recognising household and community contributions (Sidhva et al., 2021; Zuntz, 2021).
+
+Community efficacy. The data support the proposal's view that the perceived capacity to contribute is central to well-being. Participants felt they "still exist" when they could teach, guide or provide (E7-611, E9-085), and community efficacy was threatened where respect for elders was felt to have disappeared (E6-279) or where means were absent (E8-610).
+
+Ageism and "deservingness". Age ceilings in training and hiring, and remarks such as "your bones are gold", fit the proposal's account of older refugees being treated as less "investable" (Lupieri, 2022; Abi Chahine & Kienzler, 2022). The data add a nuance: several participants rejected the premise of age-based decline and described themselves as more productive than younger colleagues, while also anticipating physical limits.
+
+SDGs. The findings connect to SDG 1 (social protection for those unable to work — E1, E6), SDG 3 (mental and physical health needs, including untreated conditions — E4, E7), SDG 8 (decent work, given the exploitation and low pay described) and SDG 10 (age- and nationality-based inequalities in access).
+
+Note on citations: only works already cited in the approved proposal are referred to here; further literature should be added by the researcher when writing the Discussion chapter.
+
+# 15. Outline for the Findings chapter
+
+|table:outline|
+
+Suggested conventions for the chapter: introduce each theme with a short analytic statement; present evidence across participants rather than case by case; use one or two quotations per point, giving the Arabic in a footnote or appendix if the thesis format allows; indicate how many of the ten participants expressed a view using plain words ("most", "several", "two participants") rather than percentages; present contradictory cases within each subtheme; and keep interpretation linked to the framework for the Discussion chapter.
+
+# 16. Limitations to report
+
+- Ten interviews (fewer than the 15–20 planned); findings are exploratory and not generalisable.
+- Single analyst coding without inter-coder checking or member checking.
+- Researcher influence in some interviews (Memo 1) and insider positionality (Memo 2).
+- Inconsistent K6 administration and two unreproducible totals (Memo 3).
+- Demographic contradictions concerning employment status and age (Memos 4–5).
+- Translation of unedited colloquial speech involves interpretation; key quotations should receive a final native-speaker review.

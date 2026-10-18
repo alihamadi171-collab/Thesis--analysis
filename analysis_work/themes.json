@@ -1,0 +1,34 @@
+{
+ "themes": [
+  {"id":"T1","en":"From \"master of oneself\" to starting from zero: ruptured work identities and family roles","ar":"من «سيّد نفسه» إلى البداية من الصفر: تصدّع هوية العمل والأدوار الأسرية",
+   "subs":[
+    {"id":"1.1","en":"Work in Syria as independence, standing and self-worth","ar":"العمل في سوريا كاستقلال ومكانة وقيمة ذاتية","codes":["PAST-WORK","PAST-STATUS"]},
+    {"id":"1.2","en":"Losses of war and displacement","ar":"خسائر الحرب والنزوح","codes":["WAR-LOSS"]},
+    {"id":"1.3","en":"Reconfigured provider roles: dependence, reversal and new burdens","ar":"إعادة تشكيل دور المعيل: الاعتماد والانقلاب والأعباء الجديدة","codes":["ROLE-PROVIDER","ROLE-SHIFT"]},
+    {"id":"1.4","en":"Gendered pathways into and out of work","ar":"المسارات الجندرية نحو العمل وخارجه","codes":["GENDER"]}]},
+  {"id":"T2","en":"Narrow and precarious paths to economic participation","ar":"مسارات ضيقة وهشّة للمشاركة الاقتصادية",
+   "subs":[
+    {"id":"2.1","en":"Fragmented, informal and insecure work","ar":"عمل متقطع وغير رسمي وغير آمن","codes":["WORK-JO","WORK-PRECARIOUS","AID"]},
+    {"id":"2.2","en":"Age as a gatekeeping criterion — and its contestation","ar":"العمر كمعيار إقصاء — ومقاومته","codes":["BAR-AGE","NEG-AGE"]},
+    {"id":"2.3","en":"Legal, financial, health and programme barriers","ar":"العوائق القانونية والمالية والصحية وعوائق البرامج","codes":["BAR-LEGAL","BAR-CAPITAL","BAR-PROGRAM","BAR-HEALTH","BAR-CARE"]},
+    {"id":"2.4","en":"Skills and experience left unused","ar":"مهارات وخبرات غير مستثمرة","codes":["SKILL"]}]},
+  {"id":"T3","en":"Income, dignity and psychosocial well-being","ar":"الدخل والكرامة والرفاه النفسي الاجتماعي",
+   "subs":[
+    {"id":"3.1","en":"Work and own income as dignity, independence and \"weight\"","ar":"العمل والدخل الذاتي كرامةً واستقلالًا و«وزنًا»","codes":["DIG-WORK"]},
+    {"id":"3.2","en":"The humiliation of need and dependence","ar":"مذلّة الحاجة والاعتماد على الآخرين","codes":["DIG-NEED"]},
+    {"id":"3.3","en":"Regard that follows money — and regard that does not","ar":"نظرة تتبع المال — ونظرة لا تتبعه","codes":["REGARD-CHANGE","REGARD-STABLE"]},
+    {"id":"3.4","en":"Distress, idleness and the relief of being occupied","ar":"الضيق والفراغ وراحة الانشغال","codes":["WB-DISTRESS","WB-PROD","WB-RELIEF","WB-ISOL","DAILY","HEALTH","UNCERTAIN"]}]},
+  {"id":"T4","en":"Holding on: faith, family, self-reliance and contributing to others","ar":"التماسك: الإيمان والأسرة والاعتماد على الذات والعطاء للآخرين",
+   "subs":[
+    {"id":"4.1","en":"Faith and acceptance","ar":"الإيمان والرضا","codes":["COPE-FAITH"]},
+    {"id":"4.2","en":"Family as purpose and obligation","ar":"الأسرة كغاية والتزام","codes":["COPE-FAMILY"]},
+    {"id":"4.3","en":"Persistence and self-reliance","ar":"المثابرة والاعتماد على الذات","codes":["COPE-SELF"]},
+    {"id":"4.4","en":"Community efficacy: guiding, teaching and helping — amid social strain","ar":"الفاعلية المجتمعية: التوجيه والتعليم والمساعدة — وسط توترات اجتماعية","codes":["CONTRIB","SOCIAL","SOCIAL-STRAIN"]}]},
+  {"id":"T5","en":"Conditional hope: futures, rebuilding Syria and claims for age-inclusive support","ar":"أمل مشروط: المستقبل وإعادة إعمار سوريا والمطالبة بدعم دامج للعمر",
+   "subs":[
+    {"id":"5.1","en":"Personal aspirations and return","ar":"الطموحات الشخصية والعودة","codes":["FUT-ASPIRE","FUT-RETURN"]},
+    {"id":"5.2","en":"\"Still able to give\": the generation's role in rebuilding — and its limits","ar":"«لسّا قادرين نعطي»: دور الجيل في الإعمار — وحدوده","codes":["FUT-REBUILD","FUT-LIMIT"]},
+    {"id":"5.3","en":"What older refugees ask for: projects, fair access and dignity","ar":"ما يطلبه اللاجئون الأكبر سنًا: مشاريع ووصول عادل وكرامة","codes":["PROG-NEED","PROG-DOUBT","RIGHTS"]}]}
+ ],
+ "nonthematic": {"PROC":"Procedural — not thematically analysed / إجرائي","K6":"K6 screening — descriptive only / مقياس K6 — وصفي فقط","CONTEXT":"Context — not used as thematic evidence / سياق","REFLEX":"Researcher framing — audit flag / تأثير صياغة الباحث"}
+}
